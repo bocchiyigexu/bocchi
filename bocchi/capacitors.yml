@@ -1,0 +1,46 @@
+BOCCHI_DRI:
+  category: bocchi_dianr
+  capacitor-name: "&b波奇电力储存单元I"
+  capacitor-lore:
+  - "&7波奇粒子的导电性决定了它非同小可"
+  block-type: DEFAULT
+  capacity: 256
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BOCCHI_EGOBKL
+      amount: 1

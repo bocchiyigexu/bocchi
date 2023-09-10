@@ -1,0 +1,13 @@
+BOCCHI_EGOBKL:
+  category: bocchi_cl
+  item-type: CUSTOM
+  item-name: "&b波奇粒"
+  item-lore:
+    - "&7社恐之力凝结，似乎虚无缥缈"
+  item-id: SKULLc31c61dc7f2d09ca20d75e5945777e5f06d0629318cd251ad8d4d9e81f00518c
+  max-deviation: 1
+  biome:
+    BEACH: 9
+  environment:
+    NORMAL: 3
+    NETHER: 6
